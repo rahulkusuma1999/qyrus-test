@@ -1,0 +1,1001 @@
+Employee ID,Name,Age,Salary,Department,City,Experience (Years),Performance Rating,Bonus Eligible
+E4103,Quinn,49,144156,Operations,Denver,11,Poor,No
+E5264,Jack,27,60674,Marketing,Boston,32,Poor,No
+E7598,David,39,92700,Sales,Los Angeles,12,Good,No
+E7949,Sophia,27,121878,Support,Seattle,37,Poor,No
+E9546,Jack,60,131375,Marketing,Chicago,14,Excellent,Yes
+E7861,Bob,31,139924,Finance,Seattle,29,Good,Yes
+E3058,Eve,38,99215,HR,Chicago,8,Excellent,No
+E5373,Frank,60,33962,Operations,Seattle,27,Excellent,No
+E9009,Charlie,46,114545,Management,San Francisco,18,Good,Yes
+E9478,Alice,34,43170,Support,San Francisco,7,Excellent,Yes
+E8594,Quinn,54,31596,HR,Denver,9,Excellent,Yes
+E7477,Thomas,49,144416,Management,Seattle,19,Average,No
+E7133,Noah,58,33950,Finance,Miami,11,Good,No
+E6575,Karen,22,30675,Management,Chicago,34,Excellent,No
+E5646,Quinn,25,142721,Finance,Denver,5,Good,No
+E3028,Charlie,58,84741,Operations,San Francisco,24,Excellent,Yes
+E2055,Thomas,25,147597,Engineering,Seattle,10,Average,No
+E5768,Frank,38,82695,Sales,Boston,25,Poor,No
+E9431,Paul,45,86369,Marketing,Boston,22,Poor,Yes
+E7792,Alice,47,47310,Marketing,Miami,5,Good,No
+E3910,Ivy,24,141610,Management,San Francisco,1,Average,Yes
+E9137,Bob,28,39683,Operations,Houston,31,Poor,Yes
+E5135,Ivy,34,88123,Finance,Chicago,30,Excellent,Yes
+E6297,Quinn,49,81020,Engineering,Houston,15,Average,No
+E2369,Olivia,23,118016,Sales,Boston,25,Excellent,No
+E1008,Quinn,29,123655,Engineering,Chicago,32,Excellent,No
+E9078,Jack,44,127866,Engineering,Los Angeles,15,Poor,No
+E4272,Mia,23,69771,Management,Los Angeles,16,Poor,Yes
+E4060,Eve,45,49384,Marketing,Los Angeles,19,Good,No
+E6925,Liam,27,125323,Sales,Boston,18,Good,Yes
+E3639,Frank,59,91195,Sales,Miami,35,Average,Yes
+E7818,Olivia,53,73215,Engineering,New York,22,Average,No
+E6659,Mia,55,98800,Engineering,San Francisco,22,Good,No
+E3136,Eve,24,126868,Support,New York,33,Poor,Yes
+E2325,Sophia,40,75957,Sales,Austin,4,Poor,No
+E3761,Karen,40,48625,HR,Houston,13,Good,No
+E3054,Alice,38,110376,Marketing,San Francisco,12,Average,No
+E3471,Mia,39,93197,Marketing,Denver,37,Good,No
+E4599,Eve,45,96724,Management,Chicago,12,Poor,No
+E7897,David,39,104186,Marketing,Los Angeles,31,Good,No
+E5856,Quinn,35,66834,Engineering,New York,8,Excellent,No
+E9311,Noah,31,64812,Sales,Denver,20,Good,No
+E7430,Mia,58,86535,Marketing,Seattle,37,Good,No
+E4591,Paul,55,48125,Engineering,Seattle,11,Good,No
+E9709,Hannah,36,71637,Engineering,Denver,1,Excellent,No
+E5836,Sophia,25,51590,Operations,Chicago,2,Excellent,No
+E2216,Karen,47,139286,Operations,San Francisco,9,Excellent,Yes
+E3110,Riley,37,37923,Engineering,Boston,5,Good,No
+E4277,Quinn,57,35243,Operations,Los Angeles,26,Good,Yes
+E5457,Bob,54,74679,Marketing,Boston,7,Excellent,No
+E8486,Frank,23,77822,Finance,Austin,26,Good,Yes
+E1942,Charlie,34,120434,Finance,Houston,34,Excellent,Yes
+E5672,Olivia,40,89755,HR,Los Angeles,18,Poor,No
+E8044,Liam,27,106392,Management,Miami,13,Good,Yes
+E7231,Hannah,56,128146,HR,Miami,21,Poor,No
+E6996,Sophia,51,105827,HR,Denver,16,Average,No
+E8732,Bob,38,37065,Engineering,Austin,23,Poor,No
+E7160,Ivy,51,104089,HR,Chicago,1,Excellent,Yes
+E8917,Alice,59,91739,Management,Boston,28,Poor,No
+E1992,Quinn,24,100055,Finance,Denver,14,Average,No
+E1987,Paul,31,148836,Sales,New York,39,Poor,No
+E7675,Paul,22,79355,Finance,Denver,26,Average,Yes
+E2265,David,54,57964,Management,New York,3,Average,No
+E8703,Quinn,29,81114,Management,Los Angeles,6,Excellent,Yes
+E1186,Sophia,35,55501,Operations,Los Angeles,30,Excellent,No
+E4371,Jack,37,112718,Engineering,Austin,24,Poor,No
+E8079,Charlie,53,132419,Management,Denver,5,Excellent,No
+E2395,Bob,24,87549,Sales,Boston,32,Average,No
+E5540,Grace,29,129378,Operations,San Francisco,16,Good,Yes
+E9186,Quinn,27,32930,Management,Boston,21,Good,No
+E7221,Karen,30,42550,Engineering,Los Angeles,1,Excellent,No
+E6353,Grace,60,115866,HR,Chicago,33,Poor,Yes
+E7909,Noah,37,68384,Sales,New York,13,Poor,Yes
+E5353,Noah,58,115003,Marketing,Chicago,14,Average,Yes
+E4754,David,53,107395,Finance,Houston,38,Average,Yes
+E3145,Liam,59,55509,Operations,Seattle,13,Good,No
+E2979,David,31,107875,Management,New York,18,Poor,Yes
+E6097,David,43,41812,Sales,Miami,13,Excellent,Yes
+E4661,Olivia,34,106756,Finance,Houston,30,Excellent,Yes
+E1596,Karen,27,52084,Management,Houston,14,Good,Yes
+E2920,Alice,29,61246,Management,Chicago,8,Excellent,Yes
+E4461,David,45,55932,Sales,Boston,16,Average,No
+E3641,Hannah,33,75356,Sales,Miami,20,Average,No
+E2436,Alice,30,88359,Management,Boston,1,Good,No
+E2606,Noah,37,128507,Management,Houston,21,Average,Yes
+E4274,Alice,31,51612,Finance,San Francisco,32,Good,Yes
+E9260,Charlie,33,68774,Sales,Chicago,32,Excellent,No
+E7582,Thomas,27,42088,Sales,San Francisco,8,Average,No
+E4249,Mia,27,132149,Support,New York,1,Average,Yes
+E9456,Charlie,25,132599,Finance,Houston,8,Good,Yes
+E5798,Thomas,37,79014,Support,Houston,19,Average,Yes
+E1018,Karen,26,99719,Support,Miami,1,Good,No
+E3862,David,32,147950,Marketing,Boston,38,Average,Yes
+E7461,Alice,55,56367,Support,Los Angeles,38,Average,No
+E8993,Charlie,58,124563,Engineering,Denver,11,Excellent,No
+E7535,Charlie,35,114201,Operations,Houston,29,Poor,Yes
+E5084,Jack,45,54325,Management,Chicago,30,Good,Yes
+E2632,Sophia,54,83765,Operations,Miami,3,Excellent,Yes
+E1826,Ivy,30,120012,Marketing,San Francisco,12,Excellent,No
+E2925,Karen,28,53425,Engineering,Austin,34,Excellent,No
+E7446,Bob,56,52374,Operations,Boston,32,Good,Yes
+E9903,Paul,47,122172,Finance,Houston,16,Poor,Yes
+E4401,Jack,45,116651,Engineering,Boston,27,Excellent,No
+E7039,Sophia,50,149264,Engineering,Boston,18,Excellent,No
+E5575,Paul,32,47140,Operations,Houston,18,Good,Yes
+E3818,Mia,46,50232,Operations,San Francisco,37,Good,No
+E7142,Riley,23,90696,HR,Seattle,40,Excellent,No
+E1721,Sophia,60,133071,HR,Houston,18,Good,Yes
+E3413,Alice,35,76569,Marketing,Chicago,28,Average,No
+E1678,Karen,46,103392,Management,Seattle,30,Poor,Yes
+E3011,Sophia,54,67809,Finance,Boston,19,Average,Yes
+E6227,Ivy,23,135240,Support,Denver,19,Good,Yes
+E6195,Alice,60,101687,HR,Seattle,10,Good,Yes
+E6226,Quinn,59,112008,Marketing,Chicago,13,Average,No
+E7262,Mia,36,88388,Management,San Francisco,17,Average,No
+E7820,Charlie,29,50834,Marketing,San Francisco,2,Poor,No
+E7680,Jack,30,142871,Engineering,Los Angeles,9,Average,Yes
+E9026,Eve,52,131342,Finance,New York,7,Poor,Yes
+E8873,Hannah,48,122684,Operations,Austin,14,Excellent,No
+E3249,Mia,41,57699,Engineering,Houston,5,Poor,No
+E9303,Sophia,49,123110,Support,New York,8,Excellent,No
+E7651,Olivia,57,90631,Management,Austin,2,Poor,Yes
+E6322,Grace,36,90792,Engineering,New York,4,Excellent,Yes
+E8104,Frank,37,33892,Sales,Seattle,12,Good,Yes
+E4016,Sophia,33,74516,Finance,New York,21,Poor,Yes
+E4647,Paul,26,66982,Engineering,Los Angeles,35,Poor,No
+E7937,Alice,49,73757,HR,New York,8,Excellent,No
+E9456,Alice,41,136190,Support,Los Angeles,37,Good,No
+E4550,Riley,30,116406,Sales,Boston,21,Poor,No
+E4200,Bob,35,63957,Operations,Denver,18,Poor,No
+E5534,Olivia,34,119001,Engineering,Miami,5,Poor,No
+E3327,Olivia,56,123884,Marketing,Austin,34,Average,Yes
+E4902,Grace,55,144915,Marketing,San Francisco,39,Poor,No
+E6772,Grace,52,147705,Marketing,Boston,1,Average,Yes
+E9248,Riley,56,68520,Management,Denver,34,Average,No
+E7535,Quinn,56,142483,HR,San Francisco,2,Good,No
+E5938,Jack,34,108805,Finance,Los Angeles,10,Poor,No
+E2997,Hannah,59,67902,Marketing,San Francisco,14,Average,Yes
+E9766,Hannah,39,103070,Finance,Los Angeles,29,Poor,Yes
+E1181,Eve,25,111322,Management,Houston,28,Average,No
+E7686,Hannah,43,114214,Engineering,Austin,27,Poor,Yes
+E6967,Alice,51,117708,HR,Miami,3,Average,Yes
+E8990,Riley,23,86477,Management,Austin,12,Excellent,Yes
+E6787,Riley,43,128174,Marketing,Boston,38,Average,No
+E4587,Mia,33,104779,Marketing,Boston,22,Poor,No
+E1399,Thomas,36,80382,Support,Los Angeles,35,Poor,No
+E8749,Ivy,25,124250,Engineering,Miami,20,Excellent,No
+E6205,Charlie,31,47615,Support,Austin,13,Average,Yes
+E1556,Grace,43,51782,Marketing,San Francisco,17,Average,Yes
+E8951,Charlie,23,94986,Operations,Los Angeles,28,Excellent,No
+E5085,Jack,51,132245,Sales,Houston,36,Good,Yes
+E4587,Noah,37,34933,Engineering,Chicago,26,Good,Yes
+E7796,Jack,37,85960,Marketing,Denver,16,Excellent,No
+E2594,Thomas,53,90646,HR,Miami,38,Poor,No
+E4378,Ivy,37,135340,Support,Austin,36,Excellent,No
+E1791,Quinn,37,42650,Operations,Boston,4,Good,No
+E1533,Mia,53,129731,Engineering,Miami,19,Good,Yes
+E6484,Paul,29,124286,Management,Denver,21,Poor,Yes
+E6561,Sophia,30,140035,Engineering,Denver,15,Excellent,Yes
+E5529,Paul,60,71824,Sales,New York,38,Poor,Yes
+E9757,Bob,39,112471,Support,Chicago,2,Average,Yes
+E1596,Paul,56,121554,Sales,Houston,38,Average,Yes
+E1156,Charlie,22,31706,Marketing,Denver,22,Excellent,No
+E5977,Quinn,35,50422,Sales,New York,20,Good,No
+E6002,Paul,59,113263,HR,Chicago,39,Poor,No
+E4289,Sophia,34,148005,Engineering,Denver,14,Good,Yes
+E2640,Frank,24,118415,HR,Seattle,7,Good,No
+E5498,Hannah,48,141626,Marketing,Los Angeles,13,Good,No
+E1253,Sophia,50,112850,Finance,San Francisco,37,Good,Yes
+E8445,David,31,64612,Support,Austin,34,Average,No
+E2783,Charlie,35,146170,HR,Los Angeles,10,Excellent,Yes
+E4906,Frank,60,79794,Operations,Austin,6,Good,Yes
+E9760,Noah,42,93019,Sales,New York,25,Poor,Yes
+E2533,Mia,32,94098,Operations,Chicago,1,Average,No
+E2159,Karen,38,39828,Engineering,Chicago,1,Average,Yes
+E3605,David,44,89228,Engineering,Austin,18,Average,No
+E2347,Riley,30,77130,Sales,Boston,36,Poor,Yes
+E3841,Liam,32,104736,HR,New York,26,Good,No
+E7615,Charlie,33,62473,Sales,Boston,11,Good,No
+E9679,Noah,29,95159,HR,Chicago,1,Average,Yes
+E1343,Sophia,31,58234,Sales,Denver,12,Excellent,No
+E7099,Grace,27,146663,Finance,New York,27,Average,No
+E8250,Riley,45,68010,Sales,Boston,39,Excellent,Yes
+E3171,Jack,42,117587,Finance,Houston,10,Average,Yes
+E6742,Frank,31,117691,Support,Los Angeles,16,Poor,Yes
+E9230,Frank,50,90288,HR,Seattle,28,Good,No
+E8868,Grace,54,71428,Engineering,New York,34,Excellent,No
+E5657,Paul,48,127878,Management,Denver,19,Average,Yes
+E7857,Alice,57,140476,Sales,Austin,25,Good,Yes
+E8510,Karen,42,135071,Management,Los Angeles,26,Average,Yes
+E4961,Alice,23,122935,Management,Houston,17,Poor,No
+E4561,Noah,34,52840,HR,Miami,18,Average,No
+E7012,Riley,38,98106,Sales,Denver,5,Excellent,No
+E3548,Sophia,36,130003,Management,Boston,23,Good,No
+E4181,Grace,39,97580,Management,New York,20,Excellent,Yes
+E3738,Alice,29,145090,Finance,Denver,9,Good,Yes
+E1194,Thomas,60,36246,Marketing,Denver,14,Excellent,No
+E3547,Riley,58,109228,Support,Houston,29,Average,Yes
+E2628,Quinn,44,50506,Operations,Austin,19,Excellent,Yes
+E8428,Liam,50,43169,Management,San Francisco,14,Excellent,No
+E7181,Charlie,42,89641,Finance,San Francisco,7,Poor,Yes
+E2070,Sophia,49,116639,Operations,San Francisco,18,Poor,Yes
+E3722,Olivia,60,110806,Support,Seattle,26,Excellent,Yes
+E6371,Noah,34,120186,Marketing,Chicago,25,Good,No
+E2619,Bob,32,73657,HR,Los Angeles,22,Poor,No
+E6279,Frank,37,119128,HR,San Francisco,19,Excellent,Yes
+E3629,Hannah,58,100380,Support,Houston,31,Average,Yes
+E9741,Bob,36,35903,Management,Austin,5,Average,Yes
+E2368,Mia,42,89095,Support,San Francisco,40,Poor,Yes
+E9291,Noah,38,123162,Operations,Denver,36,Excellent,No
+E5498,Alice,57,79299,Sales,Boston,35,Poor,Yes
+E6778,Olivia,41,47365,Marketing,New York,19,Excellent,Yes
+E8649,Riley,38,30866,Support,Denver,7,Excellent,Yes
+E6681,David,49,131453,Marketing,Los Angeles,5,Average,No
+E4430,Thomas,56,33655,Marketing,Los Angeles,6,Average,No
+E6805,Thomas,24,71818,Engineering,Austin,13,Average,Yes
+E1789,Ivy,33,126033,Management,Denver,16,Excellent,No
+E1780,Jack,58,34043,Operations,San Francisco,10,Excellent,No
+E7862,Bob,50,54280,Engineering,Miami,28,Good,No
+E6194,Alice,53,38864,Management,San Francisco,29,Good,No
+E1435,Bob,46,112354,Support,Houston,25,Good,No
+E3735,Karen,22,141293,HR,New York,8,Excellent,Yes
+E2519,Karen,52,95931,Support,Miami,26,Excellent,No
+E3727,Alice,59,118419,Sales,Seattle,38,Average,Yes
+E5329,Frank,53,56635,Engineering,New York,32,Average,No
+E6687,David,33,110075,Engineering,San Francisco,5,Average,Yes
+E3761,Paul,22,59332,Management,Seattle,8,Good,Yes
+E6311,Sophia,46,124010,Support,Houston,9,Poor,No
+E5703,Frank,30,62944,Operations,Austin,6,Poor,No
+E8012,Eve,26,99686,Engineering,Denver,33,Average,Yes
+E8831,Riley,52,57941,Marketing,Austin,2,Average,No
+E4900,Karen,47,68408,Marketing,Miami,25,Good,No
+E2230,Alice,25,62907,HR,Houston,23,Excellent,Yes
+E6944,Mia,33,138073,Engineering,New York,6,Excellent,Yes
+E6425,David,56,97988,Finance,Chicago,14,Poor,Yes
+E9597,Ivy,38,140359,Support,Chicago,35,Poor,Yes
+E9719,Noah,29,97721,Management,San Francisco,33,Poor,No
+E9791,Bob,27,128188,Operations,Houston,15,Average,Yes
+E4125,Eve,56,122121,Support,Chicago,16,Average,No
+E8283,Grace,57,133135,Marketing,Los Angeles,12,Poor,No
+E1356,Alice,23,102790,Support,Chicago,10,Average,Yes
+E2960,Paul,41,123471,Finance,San Francisco,31,Average,No
+E4544,Mia,40,134947,Finance,San Francisco,16,Poor,Yes
+E5498,Liam,52,141157,HR,New York,22,Average,No
+E5611,Grace,60,105450,Support,Los Angeles,24,Average,Yes
+E4702,Alice,43,103210,HR,Los Angeles,34,Poor,Yes
+E3995,Bob,54,59181,Finance,New York,16,Poor,Yes
+E8507,Liam,45,31366,Support,Miami,24,Good,Yes
+E1474,Hannah,36,143829,Sales,Miami,3,Average,Yes
+E7295,Paul,34,97677,Sales,Houston,17,Good,No
+E6922,Ivy,37,123501,Support,Chicago,16,Excellent,Yes
+E7052,Bob,30,68394,Sales,New York,39,Poor,Yes
+E9924,Liam,41,70859,Management,Miami,23,Excellent,No
+E8379,Noah,47,72255,Sales,Houston,14,Poor,Yes
+E5755,Bob,31,85038,Operations,Houston,32,Excellent,No
+E3114,Liam,44,33953,Support,Austin,35,Excellent,Yes
+E4398,Bob,29,114633,Management,Seattle,21,Poor,Yes
+E6817,Karen,50,144662,Marketing,Los Angeles,13,Good,No
+E3297,Riley,60,43863,Support,Los Angeles,38,Good,Yes
+E5018,Noah,36,64406,Sales,Boston,28,Good,Yes
+E8707,Karen,58,130744,Finance,Miami,30,Good,No
+E9260,Riley,29,41996,Management,Houston,17,Good,No
+E6356,Grace,31,104247,Support,Chicago,22,Average,Yes
+E4963,Bob,55,145543,Management,Miami,32,Poor,Yes
+E9120,David,52,147484,Management,Chicago,5,Good,No
+E3575,Noah,24,118853,Operations,New York,8,Poor,No
+E3794,Charlie,31,54327,Marketing,Austin,31,Excellent,Yes
+E7896,Hannah,53,48961,HR,Miami,15,Poor,Yes
+E7708,Riley,31,89499,Engineering,Boston,38,Average,No
+E7711,Liam,23,66853,Management,Houston,12,Good,No
+E9449,Mia,40,101425,Support,Houston,3,Poor,Yes
+E3594,Frank,32,69461,Finance,San Francisco,5,Good,No
+E5688,Mia,25,130240,Marketing,New York,17,Excellent,No
+E6293,Karen,59,43209,Sales,Miami,20,Excellent,No
+E5431,Sophia,22,94642,Marketing,Denver,18,Good,Yes
+E9508,Liam,22,32123,HR,San Francisco,23,Good,No
+E4345,Liam,41,105833,Marketing,Miami,29,Good,No
+E8493,Grace,31,99497,Engineering,Los Angeles,28,Good,Yes
+E4429,Eve,43,58303,Marketing,Seattle,8,Poor,No
+E1338,David,43,61150,Sales,Denver,35,Poor,Yes
+E8363,Paul,52,37157,HR,Austin,22,Poor,Yes
+E1829,Quinn,51,32832,Finance,Austin,17,Excellent,Yes
+E4869,Liam,37,102733,Management,Denver,16,Good,No
+E6732,Grace,43,68741,Finance,Miami,31,Poor,No
+E2633,Olivia,56,140866,Finance,Boston,31,Poor,Yes
+E3460,Eve,37,108224,Operations,Austin,27,Excellent,Yes
+E9781,Frank,44,120174,Support,New York,10,Poor,No
+E2047,Quinn,25,147605,HR,Boston,14,Poor,No
+E3465,Liam,27,65061,Support,New York,30,Excellent,No
+E8928,Ivy,37,97346,HR,Seattle,13,Excellent,No
+E8451,Ivy,57,84285,Operations,Miami,21,Excellent,No
+E8483,Olivia,50,126143,Engineering,Boston,32,Average,No
+E1030,Jack,28,51356,Engineering,Seattle,20,Excellent,No
+E5219,David,50,146621,Management,Miami,10,Average,Yes
+E6715,Paul,59,34921,Sales,Houston,3,Good,No
+E3931,Ivy,50,69940,Operations,Seattle,22,Excellent,Yes
+E6590,Riley,45,59470,Finance,San Francisco,30,Poor,Yes
+E1251,David,22,111843,HR,San Francisco,32,Poor,Yes
+E9086,Quinn,50,135927,Support,San Francisco,2,Poor,Yes
+E5948,Hannah,57,80673,Engineering,Houston,10,Average,Yes
+E2666,Noah,49,39102,Sales,Miami,10,Good,Yes
+E9620,Eve,37,103968,Operations,Denver,14,Poor,Yes
+E3753,Thomas,29,78132,HR,Boston,30,Good,No
+E2163,Eve,46,75465,Marketing,Los Angeles,8,Good,No
+E2478,Bob,43,79814,Operations,New York,35,Poor,No
+E4370,Hannah,39,87570,Operations,Seattle,27,Average,Yes
+E9484,Bob,28,94961,Management,Miami,40,Excellent,Yes
+E4121,Eve,45,62765,Finance,Boston,35,Average,No
+E6326,Frank,41,57722,Marketing,Chicago,18,Poor,No
+E1709,Eve,28,53213,Sales,Chicago,3,Excellent,No
+E6133,Quinn,33,101565,HR,Los Angeles,9,Excellent,No
+E8992,Liam,43,35018,Engineering,Los Angeles,14,Excellent,No
+E2035,Alice,28,81661,Operations,Seattle,3,Excellent,No
+E4461,Sophia,54,71105,Sales,Houston,7,Poor,Yes
+E7901,Riley,28,33455,Finance,Denver,17,Good,Yes
+E1977,Riley,26,139757,Engineering,Houston,24,Poor,No
+E7015,Noah,30,36014,Sales,Denver,13,Excellent,Yes
+E1630,Ivy,58,41339,Marketing,Miami,24,Excellent,No
+E5264,Bob,60,44373,Operations,Los Angeles,5,Average,Yes
+E5691,Karen,37,133027,Sales,Los Angeles,6,Good,No
+E1680,Thomas,46,94197,HR,Austin,14,Good,Yes
+E7432,Mia,41,107123,Finance,Chicago,32,Average,Yes
+E9374,Mia,58,47612,Sales,Miami,28,Excellent,No
+E2276,Thomas,23,58266,Finance,Los Angeles,15,Average,No
+E8935,Jack,30,78701,Sales,Seattle,8,Average,No
+E6859,Bob,36,89458,Finance,Houston,15,Good,No
+E7505,Karen,32,117487,Support,Denver,13,Excellent,No
+E6156,Sophia,43,71512,Sales,Chicago,23,Poor,Yes
+E3258,Ivy,48,108217,HR,Los Angeles,21,Excellent,Yes
+E4651,Hannah,51,84552,Management,Seattle,7,Average,Yes
+E5301,Ivy,38,30227,Marketing,Seattle,24,Average,Yes
+E4784,Thomas,40,102897,Management,Chicago,5,Excellent,No
+E7974,Olivia,22,112488,Marketing,Denver,23,Excellent,No
+E2824,Olivia,37,146500,Marketing,Miami,40,Poor,Yes
+E8807,Thomas,54,32694,Marketing,Chicago,2,Average,No
+E9123,David,40,86152,Engineering,New York,15,Poor,Yes
+E6185,Karen,43,50699,HR,Boston,25,Poor,No
+E9361,Charlie,30,78501,Engineering,Seattle,7,Poor,No
+E8008,Paul,31,102253,Finance,New York,4,Good,Yes
+E6691,Paul,49,101415,Sales,Seattle,22,Poor,Yes
+E1224,David,51,121833,Finance,San Francisco,8,Excellent,Yes
+E1663,Frank,58,68470,Sales,Boston,35,Poor,Yes
+E2494,Sophia,45,65605,Engineering,Los Angeles,1,Excellent,No
+E7819,Olivia,29,41615,Finance,Seattle,2,Excellent,Yes
+E2901,Grace,24,74450,HR,Los Angeles,18,Average,No
+E1760,Noah,58,146052,Engineering,Denver,15,Excellent,Yes
+E2166,Eve,53,66443,Marketing,Austin,36,Poor,Yes
+E3525,David,36,82157,Engineering,New York,34,Average,No
+E1046,Noah,38,77220,HR,Austin,36,Good,No
+E7240,Mia,42,135667,Marketing,Houston,14,Good,No
+E2515,Eve,33,35504,Engineering,Austin,12,Good,No
+E8352,Ivy,29,53073,Management,Los Angeles,27,Good,No
+E5090,Karen,40,47369,Support,Denver,9,Excellent,No
+E7755,Riley,50,61548,Management,Chicago,27,Poor,No
+E3874,Riley,53,51849,Engineering,Miami,38,Good,Yes
+E5017,Charlie,55,98010,Engineering,San Francisco,38,Excellent,No
+E9039,Bob,59,57205,Sales,San Francisco,3,Average,No
+E2490,Riley,34,126356,Management,San Francisco,35,Average,Yes
+E7785,Sophia,36,147301,Engineering,Boston,11,Poor,Yes
+E8092,Riley,32,140437,Sales,Los Angeles,26,Average,No
+E3464,Mia,38,133729,Support,Boston,13,Average,No
+E1912,Liam,30,62508,Engineering,Boston,15,Poor,No
+E6630,Sophia,40,40524,Management,Seattle,10,Good,Yes
+E2018,David,37,107485,Management,New York,15,Poor,No
+E1344,Quinn,49,57219,Engineering,Houston,21,Good,No
+E9654,Thomas,29,45028,Marketing,New York,35,Average,Yes
+E9198,Charlie,47,37562,Marketing,Seattle,15,Good,Yes
+E7205,Karen,39,128702,Sales,New York,36,Good,No
+E5688,Jack,38,50891,Finance,Chicago,14,Poor,No
+E3000,Riley,23,98766,HR,Austin,6,Excellent,No
+E1296,Alice,41,126588,Finance,Denver,12,Good,Yes
+E1058,Eve,53,70688,Management,San Francisco,39,Excellent,No
+E7701,Liam,60,105402,Management,San Francisco,18,Excellent,Yes
+E5059,Bob,24,90679,Sales,Miami,2,Excellent,No
+E3240,Mia,43,97820,Sales,Boston,10,Average,Yes
+E6605,Karen,35,73554,Sales,San Francisco,25,Good,Yes
+E5123,Sophia,54,39976,Operations,New York,2,Poor,Yes
+E1114,Hannah,24,148919,Marketing,Los Angeles,11,Poor,Yes
+E9225,Grace,28,63311,Operations,Boston,36,Excellent,Yes
+E7502,Frank,47,43908,Finance,San Francisco,38,Poor,No
+E3081,Alice,28,58624,Sales,Miami,35,Poor,No
+E8258,Frank,48,145736,Sales,Boston,19,Poor,No
+E1729,Charlie,50,90025,Support,Seattle,16,Average,No
+E3064,Alice,57,98094,Engineering,San Francisco,20,Average,No
+E5767,Quinn,24,44237,Sales,Los Angeles,5,Excellent,Yes
+E2928,Olivia,45,106592,Operations,Boston,36,Good,No
+E7965,Jack,40,60079,Engineering,Chicago,26,Good,No
+E8052,Noah,39,124707,Operations,San Francisco,20,Excellent,Yes
+E5845,Mia,56,143013,Marketing,New York,4,Good,No
+E4305,Olivia,53,61805,Support,Seattle,14,Good,No
+E5407,Noah,53,94966,Marketing,Austin,40,Good,Yes
+E1964,Alice,48,51418,Finance,Miami,26,Good,Yes
+E4329,Hannah,40,132061,Operations,Houston,38,Average,No
+E9147,Jack,25,101284,Management,Chicago,7,Poor,Yes
+E9603,Hannah,40,37774,Management,Boston,22,Average,Yes
+E6685,Bob,52,65248,Finance,Chicago,24,Average,Yes
+E2140,Olivia,42,34243,Management,Los Angeles,4,Good,Yes
+E7788,Karen,27,106273,Operations,Chicago,3,Poor,No
+E1982,Thomas,28,98593,Finance,San Francisco,23,Excellent,No
+E5902,Jack,57,69580,Sales,Austin,9,Good,Yes
+E2427,Ivy,47,41705,HR,Houston,20,Good,Yes
+E3602,Bob,50,92164,Management,New York,32,Average,Yes
+E7752,Ivy,51,43056,HR,Denver,2,Good,No
+E1713,Alice,26,139409,Management,Seattle,24,Good,No
+E9809,Paul,41,92127,Marketing,Seattle,34,Average,No
+E4696,Ivy,23,148732,Support,Los Angeles,2,Good,Yes
+E1451,Grace,22,148802,Engineering,Houston,20,Average,No
+E5001,Sophia,46,62330,Marketing,Miami,22,Excellent,Yes
+E2166,Olivia,22,69205,Marketing,New York,25,Excellent,Yes
+E9256,Noah,47,103457,Management,Boston,24,Poor,Yes
+E7234,Grace,42,76129,HR,Boston,7,Average,No
+E3749,Thomas,44,43697,Management,San Francisco,19,Average,No
+E9382,Ivy,38,125717,Engineering,San Francisco,32,Average,No
+E3122,Karen,28,94304,Operations,Austin,33,Good,No
+E5374,Quinn,37,33481,Sales,New York,27,Poor,No
+E9427,Olivia,49,35450,Sales,Seattle,38,Excellent,No
+E7806,Olivia,27,133599,Engineering,Chicago,35,Average,Yes
+E2656,Riley,35,95056,Operations,Houston,29,Average,No
+E3851,Riley,54,144482,Engineering,Denver,32,Excellent,No
+E3484,Sophia,50,53325,Operations,Chicago,33,Good,No
+E9561,Hannah,41,125455,Sales,Los Angeles,34,Good,Yes
+E5684,Olivia,45,145093,Finance,Los Angeles,33,Average,Yes
+E5488,Ivy,54,94585,Operations,New York,21,Average,Yes
+E4569,Mia,27,86782,HR,Los Angeles,3,Excellent,Yes
+E9768,Grace,42,101688,Support,Seattle,18,Poor,Yes
+E5525,Karen,26,142102,Marketing,Miami,36,Good,No
+E8315,Grace,22,133579,HR,Boston,13,Average,Yes
+E9706,Olivia,36,83917,Engineering,Los Angeles,22,Average,Yes
+E8265,Bob,30,89313,Engineering,Denver,5,Poor,No
+E8401,Eve,31,77568,Marketing,Houston,36,Average,No
+E8219,Liam,35,45167,Support,Houston,18,Good,No
+E5449,Olivia,46,65836,Engineering,Seattle,36,Average,Yes
+E9171,Sophia,41,84957,HR,Chicago,19,Average,No
+E3498,Ivy,57,98870,Sales,Houston,31,Poor,Yes
+E1761,Thomas,40,71618,Support,Denver,37,Good,Yes
+E4465,Olivia,49,35510,Management,Seattle,35,Average,No
+E5957,Thomas,49,96911,Engineering,Austin,37,Excellent,No
+E9407,Eve,54,61637,Sales,Chicago,28,Good,Yes
+E9934,Liam,56,83909,Engineering,Miami,18,Average,No
+E9360,Charlie,49,90564,Operations,Seattle,2,Poor,Yes
+E8948,Hannah,23,109790,Sales,San Francisco,26,Poor,No
+E2421,Karen,29,119517,Finance,Los Angeles,12,Good,Yes
+E5202,Grace,49,52842,Management,Miami,5,Average,Yes
+E6690,Jack,27,94441,Engineering,Miami,36,Good,Yes
+E4755,Hannah,37,53932,Finance,Seattle,27,Poor,No
+E9593,Eve,25,43614,Support,Miami,13,Average,Yes
+E8783,Jack,51,123520,Operations,Seattle,7,Average,Yes
+E2896,Karen,37,113908,HR,Austin,12,Average,No
+E1336,Alice,52,149192,Sales,Houston,6,Poor,Yes
+E5666,Paul,35,104508,Engineering,Boston,34,Poor,Yes
+E3141,Karen,24,85914,Management,Los Angeles,25,Excellent,Yes
+E9390,Riley,37,129138,Support,Austin,4,Excellent,Yes
+E3018,Thomas,60,73002,Marketing,Los Angeles,2,Excellent,Yes
+E4871,Karen,58,84101,Management,Los Angeles,10,Average,No
+E6152,Ivy,56,34456,Support,Denver,28,Average,No
+E4928,Riley,31,61433,Sales,Los Angeles,2,Good,No
+E9395,Noah,47,108821,Finance,Austin,13,Excellent,Yes
+E3991,Quinn,56,134624,Engineering,Austin,22,Average,No
+E9658,Olivia,51,78539,Marketing,San Francisco,23,Good,No
+E6148,Noah,29,58295,Engineering,Chicago,36,Excellent,No
+E5637,Thomas,38,48212,Engineering,Seattle,21,Excellent,No
+E1193,Charlie,54,129490,Support,New York,36,Poor,Yes
+E4158,Karen,34,66753,Engineering,Chicago,40,Average,No
+E1805,Sophia,32,76754,Engineering,Denver,21,Good,Yes
+E1242,Frank,40,62514,Management,Miami,1,Excellent,Yes
+E2671,Paul,36,134378,Operations,Houston,40,Excellent,No
+E8519,Bob,41,34122,Finance,Denver,8,Excellent,No
+E4318,Frank,48,88588,Management,Denver,38,Excellent,Yes
+E2359,Karen,44,93366,Sales,Denver,16,Good,No
+E3684,Bob,53,95587,Marketing,Houston,19,Poor,Yes
+E8425,Riley,22,137222,Support,Austin,20,Excellent,No
+E4543,Alice,48,61779,Finance,Austin,6,Excellent,No
+E4460,David,26,105249,HR,Denver,11,Good,Yes
+E2341,Alice,36,61939,Operations,Los Angeles,37,Average,No
+E3766,Eve,51,30883,Management,New York,28,Poor,Yes
+E9227,Ivy,49,54108,Operations,Houston,40,Excellent,No
+E4414,Alice,27,123874,Support,Chicago,32,Poor,Yes
+E7913,Quinn,42,140136,Sales,Denver,37,Good,No
+E8196,Thomas,52,33335,Marketing,Seattle,35,Poor,Yes
+E2185,Mia,49,124505,HR,Seattle,17,Poor,Yes
+E5366,Quinn,25,66539,HR,San Francisco,21,Poor,Yes
+E9147,Jack,26,123582,Support,Houston,40,Excellent,Yes
+E4761,Eve,35,70675,Finance,New York,10,Poor,Yes
+E5714,Bob,53,64538,Engineering,Seattle,24,Poor,No
+E3077,Thomas,29,120226,Operations,New York,4,Average,No
+E8014,Quinn,27,119037,Sales,Boston,4,Poor,Yes
+E9015,Paul,32,39713,Finance,Seattle,33,Excellent,Yes
+E5420,Mia,40,62986,Support,New York,26,Good,No
+E7180,Hannah,57,101435,Engineering,Boston,38,Poor,No
+E5959,Noah,40,97311,Operations,Boston,39,Good,Yes
+E8908,Alice,40,135724,Finance,Houston,3,Average,No
+E5912,Eve,52,91485,Operations,Seattle,38,Poor,Yes
+E9279,Thomas,24,105201,Finance,New York,24,Excellent,Yes
+E2072,Bob,54,40438,Operations,Houston,40,Good,Yes
+E1051,Paul,39,109145,Sales,Los Angeles,13,Poor,No
+E1362,Noah,54,127406,HR,Chicago,24,Excellent,No
+E9719,Riley,30,36541,Sales,New York,14,Good,Yes
+E1056,Charlie,54,103014,Management,Denver,20,Excellent,No
+E7016,Eve,44,91442,HR,New York,16,Average,Yes
+E4098,Frank,44,137125,Engineering,Houston,15,Poor,No
+E1929,Ivy,22,147103,Sales,Los Angeles,4,Excellent,Yes
+E8116,Quinn,49,50897,Finance,New York,36,Average,No
+E4313,Charlie,26,37957,Sales,Los Angeles,8,Poor,No
+E5491,Karen,46,75932,Marketing,Miami,29,Average,Yes
+E1112,Alice,26,94360,Management,Los Angeles,16,Poor,No
+E3783,Eve,48,57756,HR,Chicago,16,Poor,No
+E1790,Hannah,39,40767,Engineering,New York,36,Poor,Yes
+E8426,Riley,52,76184,Management,San Francisco,30,Poor,Yes
+E8487,Mia,43,67482,Sales,Houston,32,Good,No
+E5347,Frank,57,89479,HR,Denver,9,Good,Yes
+E1474,Quinn,43,146570,Finance,Boston,19,Poor,No
+E2058,Hannah,30,38899,Engineering,Seattle,22,Excellent,Yes
+E1352,Frank,42,119457,Sales,Chicago,25,Excellent,No
+E6651,Frank,56,81586,Support,San Francisco,2,Poor,No
+E1635,Sophia,53,85539,Engineering,San Francisco,11,Poor,No
+E2060,Mia,48,108425,Marketing,San Francisco,11,Excellent,No
+E1966,Karen,26,137893,Operations,Houston,27,Poor,No
+E1411,Eve,47,134069,Management,San Francisco,13,Excellent,No
+E5562,Alice,38,106118,Finance,San Francisco,22,Poor,No
+E7805,Riley,52,33358,Marketing,Denver,23,Good,Yes
+E4837,Bob,36,64546,Operations,Denver,16,Good,No
+E5476,Grace,35,54870,Support,Boston,24,Average,Yes
+E5283,David,26,120386,Management,Miami,16,Average,No
+E6197,Eve,42,74387,Support,Los Angeles,6,Average,Yes
+E4323,Quinn,36,85326,Sales,Los Angeles,4,Excellent,No
+E2176,Liam,60,105074,Marketing,Denver,11,Poor,No
+E5736,Liam,50,36998,Support,New York,18,Excellent,Yes
+E6088,Charlie,52,108745,Engineering,Austin,9,Poor,No
+E3381,Thomas,50,37421,Engineering,Austin,2,Excellent,Yes
+E8615,Hannah,51,118487,Management,Los Angeles,17,Poor,No
+E4765,Noah,26,147942,Engineering,Miami,40,Poor,Yes
+E2137,David,55,126771,Engineering,Miami,7,Excellent,No
+E4362,Noah,52,44439,Operations,San Francisco,1,Poor,No
+E3765,Frank,30,62156,HR,Boston,11,Poor,Yes
+E2751,Charlie,26,56140,Marketing,Seattle,10,Excellent,Yes
+E4554,Frank,31,123903,Sales,Houston,10,Poor,No
+E1204,Sophia,60,86382,Marketing,Houston,35,Good,Yes
+E2955,Ivy,50,42406,Sales,New York,38,Good,No
+E7826,Frank,31,31274,Finance,Boston,17,Excellent,Yes
+E5263,Grace,22,65797,Management,Los Angeles,7,Average,No
+E3005,Ivy,37,83582,Management,Denver,31,Good,No
+E2625,Olivia,44,96162,Engineering,Seattle,36,Good,Yes
+E6086,Mia,42,38301,Support,Chicago,23,Average,No
+E8679,Karen,46,74964,Marketing,Boston,40,Poor,Yes
+E8647,Sophia,23,75604,Engineering,Los Angeles,33,Excellent,No
+E1387,Olivia,24,112913,Sales,Houston,1,Excellent,Yes
+E6834,Alice,28,37961,Operations,Denver,27,Average,No
+E7006,Jack,31,80266,Operations,Denver,15,Good,Yes
+E8807,Jack,43,99263,Marketing,New York,34,Poor,No
+E7707,Paul,32,148458,Management,Austin,39,Good,No
+E3756,Eve,24,113923,HR,New York,20,Good,No
+E4748,David,30,142869,Operations,Houston,20,Good,No
+E7933,Liam,34,129859,HR,Chicago,2,Good,Yes
+E9712,Quinn,38,99375,Engineering,San Francisco,4,Poor,Yes
+E8114,Thomas,39,83430,Sales,Austin,36,Average,No
+E3842,Thomas,42,49003,HR,Denver,33,Good,No
+E8784,Hannah,37,140807,Finance,New York,26,Excellent,No
+E6369,Quinn,42,149207,Marketing,San Francisco,38,Average,No
+E5303,Sophia,50,108842,Engineering,Denver,25,Average,Yes
+E7429,Charlie,32,42365,Operations,Houston,13,Poor,No
+E7967,Sophia,47,101756,Operations,Seattle,31,Good,Yes
+E1132,David,32,114243,HR,New York,1,Excellent,No
+E8756,Bob,51,88021,Finance,Seattle,36,Poor,No
+E3103,Frank,54,57186,Support,San Francisco,7,Poor,Yes
+E1592,Charlie,46,30879,Engineering,Los Angeles,17,Average,No
+E4472,Karen,26,137899,Engineering,Denver,27,Poor,Yes
+E9514,Mia,54,96256,Management,Los Angeles,12,Poor,Yes
+E6747,Thomas,49,109565,Finance,Denver,37,Excellent,Yes
+E4350,Riley,60,39306,Finance,Los Angeles,3,Average,No
+E2410,Eve,28,134981,Operations,Seattle,38,Good,Yes
+E2375,Alice,51,134264,Sales,San Francisco,6,Excellent,Yes
+E9223,Hannah,33,87794,Management,New York,11,Good,No
+E1120,Charlie,54,147922,Marketing,Denver,3,Poor,No
+E8399,Frank,22,30574,Finance,Chicago,32,Excellent,No
+E2833,Sophia,38,106731,Finance,Denver,21,Average,No
+E2215,Jack,31,61930,Sales,Austin,2,Average,No
+E6018,Frank,32,148612,Sales,Chicago,6,Good,No
+E8582,Charlie,28,73494,Sales,Denver,21,Poor,Yes
+E6711,Karen,42,96321,Engineering,Seattle,23,Poor,Yes
+E4385,Quinn,36,50243,Marketing,San Francisco,18,Average,Yes
+E5628,Liam,31,141801,Engineering,Boston,9,Poor,Yes
+E7629,Mia,60,116923,Operations,New York,3,Excellent,No
+E8352,Charlie,35,90412,Operations,Chicago,40,Excellent,Yes
+E7114,Ivy,27,119070,Finance,Boston,12,Good,Yes
+E4781,Riley,26,121311,Management,Denver,24,Good,No
+E3102,David,54,91304,Operations,Seattle,3,Poor,No
+E4500,Liam,49,137906,Engineering,Houston,11,Good,No
+E9657,Thomas,22,91145,Engineering,New York,5,Poor,Yes
+E1097,Liam,51,112349,Management,Denver,15,Good,No
+E6217,Mia,56,74649,Operations,Houston,8,Average,No
+E4484,Olivia,25,138007,Marketing,New York,13,Poor,No
+E2699,Alice,38,100032,Finance,New York,32,Average,No
+E9733,Karen,37,73418,HR,Los Angeles,23,Average,Yes
+E6955,Eve,28,82132,Support,Austin,13,Average,Yes
+E9345,Eve,58,71676,HR,New York,34,Average,No
+E1503,Liam,46,98804,Support,Chicago,37,Good,Yes
+E2588,Grace,34,31882,Finance,Denver,8,Average,No
+E6250,Eve,24,117115,Finance,Houston,15,Poor,No
+E9930,Liam,37,42421,Operations,Los Angeles,3,Average,No
+E1257,Paul,43,41939,Finance,Miami,35,Poor,Yes
+E8136,Riley,43,77943,Sales,Miami,8,Poor,No
+E3723,Ivy,24,127178,HR,Chicago,10,Excellent,No
+E8545,Alice,31,141873,Sales,Los Angeles,36,Excellent,Yes
+E6000,Alice,47,147570,Management,Miami,15,Good,Yes
+E9383,Ivy,36,64331,Engineering,Chicago,8,Average,Yes
+E5586,Liam,59,124143,Marketing,San Francisco,12,Excellent,Yes
+E4400,Charlie,56,93341,Operations,Houston,14,Poor,No
+E3741,Mia,54,59233,Engineering,Austin,15,Poor,No
+E9873,Karen,58,57953,Marketing,Seattle,2,Poor,Yes
+E9910,Liam,54,78525,Support,New York,29,Good,Yes
+E9643,Charlie,32,117449,Engineering,Los Angeles,25,Poor,Yes
+E5179,Liam,60,63492,Finance,Chicago,16,Excellent,Yes
+E1741,David,28,94034,Management,San Francisco,10,Poor,Yes
+E7153,Karen,36,144435,Marketing,Denver,27,Average,Yes
+E6836,Sophia,37,51391,Marketing,Los Angeles,8,Poor,No
+E3653,Charlie,47,44201,HR,Seattle,14,Good,No
+E6180,Thomas,54,101085,Management,Houston,1,Excellent,No
+E9241,Karen,37,76358,Engineering,Austin,35,Average,No
+E6649,Charlie,29,84717,Finance,San Francisco,13,Poor,No
+E2653,Sophia,22,66541,HR,Los Angeles,17,Average,Yes
+E1749,Karen,52,92195,Management,Houston,5,Excellent,Yes
+E2314,David,52,101210,Support,Austin,24,Excellent,No
+E7306,Grace,45,80521,Finance,Denver,19,Average,Yes
+E3190,Thomas,46,130728,Finance,Austin,28,Good,No
+E9546,Karen,40,88773,Engineering,Seattle,22,Good,Yes
+E5551,Paul,52,109340,HR,San Francisco,25,Excellent,No
+E5139,Quinn,57,124507,Marketing,San Francisco,17,Poor,No
+E3242,Noah,51,70759,Operations,Denver,30,Poor,No
+E2696,Charlie,23,57994,Management,San Francisco,11,Good,Yes
+E1259,Grace,40,134967,Support,Boston,29,Good,Yes
+E6037,Karen,43,65137,Operations,Denver,14,Poor,Yes
+E4281,Olivia,51,72184,Sales,Austin,18,Poor,No
+E9590,Quinn,58,92190,Engineering,Austin,27,Poor,Yes
+E2957,Bob,33,137674,Finance,San Francisco,18,Excellent,Yes
+E3472,Paul,29,77108,Support,Boston,33,Good,Yes
+E6923,Frank,57,75569,Finance,Denver,11,Excellent,No
+E5414,Charlie,51,46272,HR,Miami,16,Average,Yes
+E3988,David,27,110361,Support,Austin,16,Average,No
+E3152,Quinn,43,119445,HR,Houston,14,Good,No
+E1308,Paul,47,123646,Support,Denver,22,Poor,Yes
+E7401,Thomas,50,125002,Operations,Miami,23,Excellent,No
+E4573,Quinn,48,92817,HR,Houston,38,Average,No
+E5814,Eve,32,129117,Operations,Chicago,1,Poor,Yes
+E2490,Quinn,46,129187,Management,Seattle,14,Excellent,No
+E9037,Liam,57,45661,Operations,Boston,6,Excellent,Yes
+E3025,Riley,41,67461,Engineering,Los Angeles,9,Poor,No
+E1990,Jack,41,82281,Engineering,Austin,14,Poor,No
+E1602,Mia,44,85515,Finance,Seattle,24,Average,No
+E9052,Olivia,32,116871,Support,Los Angeles,33,Poor,No
+E5861,Charlie,60,62732,Sales,Houston,26,Good,Yes
+E6604,Frank,25,127186,Management,New York,37,Average,No
+E7483,Karen,26,124943,Finance,Denver,3,Average,Yes
+E7593,Paul,38,115233,Engineering,Miami,28,Poor,No
+E3644,Jack,41,42926,Finance,Chicago,2,Good,No
+E7073,Paul,27,99955,Engineering,Miami,2,Poor,Yes
+E2648,Ivy,30,34089,HR,Boston,38,Poor,Yes
+E1311,Jack,52,128731,Sales,Austin,14,Average,No
+E3263,David,56,85023,Sales,Denver,31,Excellent,No
+E6857,Hannah,23,141563,Management,Denver,5,Poor,No
+E6385,Quinn,56,62620,Support,Denver,40,Poor,No
+E5114,Sophia,48,99979,Sales,Los Angeles,29,Good,No
+E7531,Jack,56,97444,Engineering,Los Angeles,5,Poor,No
+E8468,Grace,55,58797,Engineering,New York,8,Poor,Yes
+E1556,Riley,35,36797,Finance,New York,1,Average,No
+E7957,Frank,49,81078,HR,Seattle,3,Poor,No
+E8409,David,53,64192,HR,San Francisco,35,Average,No
+E1584,Olivia,25,117451,Engineering,Chicago,30,Poor,No
+E4980,Charlie,36,132290,Marketing,Houston,10,Good,No
+E2266,Eve,42,52560,Support,Boston,8,Average,No
+E3081,Liam,37,121318,Engineering,Miami,36,Excellent,No
+E2189,Quinn,48,148192,Finance,Los Angeles,19,Good,No
+E4672,Bob,40,109293,Finance,San Francisco,39,Average,No
+E5874,David,55,83527,Finance,New York,1,Poor,Yes
+E8750,Mia,27,111969,Engineering,Austin,1,Excellent,Yes
+E4119,Karen,49,80038,Support,Los Angeles,4,Poor,No
+E7554,Mia,36,87144,Management,New York,9,Good,Yes
+E3233,Eve,44,64994,Engineering,Seattle,14,Poor,No
+E9078,Noah,25,100806,Sales,Boston,1,Excellent,Yes
+E2390,Sophia,25,82968,Management,San Francisco,3,Average,Yes
+E7643,Liam,35,136894,Finance,Denver,16,Excellent,Yes
+E1534,Bob,25,88688,Management,Los Angeles,28,Good,No
+E8196,Noah,39,111946,Sales,San Francisco,4,Poor,Yes
+E3977,Eve,42,139031,Marketing,Denver,14,Good,Yes
+E2417,Mia,47,132849,Sales,Austin,27,Average,Yes
+E5119,Sophia,26,68399,HR,Boston,28,Average,Yes
+E5724,Olivia,22,127750,HR,New York,23,Good,Yes
+E1840,Thomas,47,132170,Engineering,San Francisco,14,Poor,Yes
+E3478,Grace,50,68346,Finance,Seattle,7,Average,Yes
+E4953,Grace,37,30376,Management,Chicago,9,Good,Yes
+E4184,Paul,25,76351,Support,Houston,10,Excellent,Yes
+E7578,Frank,52,72993,Support,New York,40,Poor,No
+E2777,Noah,54,46767,Finance,Denver,8,Excellent,No
+E5936,Frank,29,54757,Support,Houston,33,Average,No
+E5601,Riley,56,107268,Engineering,Houston,1,Average,Yes
+E2892,Olivia,55,46149,Support,Houston,10,Good,Yes
+E5104,Karen,31,36589,Engineering,Los Angeles,26,Poor,Yes
+E3597,Bob,35,40834,Finance,Seattle,17,Average,Yes
+E1074,Olivia,36,61556,Sales,Austin,20,Good,Yes
+E8456,Hannah,39,99350,Sales,Seattle,15,Poor,Yes
+E6186,Karen,43,38039,HR,Houston,32,Good,Yes
+E4637,Jack,55,147020,Sales,Houston,19,Excellent,Yes
+E5875,Alice,34,148561,HR,Miami,23,Good,No
+E2029,Eve,42,125237,Operations,Houston,2,Good,Yes
+E8250,Grace,39,84226,Finance,Boston,13,Poor,Yes
+E2765,Jack,36,138976,Support,Chicago,23,Poor,Yes
+E3550,Jack,27,115182,Operations,Houston,33,Good,No
+E3962,Sophia,38,84345,Sales,Los Angeles,40,Poor,Yes
+E5282,Liam,25,53935,Finance,Boston,38,Poor,No
+E6107,Frank,53,127291,Operations,Denver,31,Poor,No
+E5603,Sophia,28,87155,Sales,Denver,25,Good,Yes
+E2718,Charlie,58,34364,Engineering,Houston,37,Average,No
+E5374,Jack,41,64123,Support,Miami,28,Good,Yes
+E5212,Hannah,59,56920,Finance,Denver,31,Average,Yes
+E6735,Quinn,24,135033,Finance,Houston,6,Excellent,No
+E1304,Karen,58,100772,Sales,Boston,22,Poor,Yes
+E9106,Grace,54,104323,Sales,New York,16,Average,Yes
+E7564,Quinn,26,44986,Support,Chicago,26,Excellent,Yes
+E2641,Quinn,55,96008,Sales,Chicago,6,Excellent,Yes
+E3666,Charlie,42,62305,Marketing,San Francisco,12,Excellent,No
+E3699,Mia,31,74667,Operations,Denver,37,Excellent,Yes
+E1049,Charlie,51,51672,Sales,Los Angeles,16,Excellent,Yes
+E9487,Hannah,55,72232,Marketing,San Francisco,21,Good,No
+E2846,Liam,42,90438,Marketing,Los Angeles,18,Average,Yes
+E7609,Noah,23,61452,Sales,Miami,24,Average,Yes
+E5043,Olivia,33,33068,HR,Houston,38,Good,No
+E3008,Karen,52,100763,Finance,New York,25,Good,Yes
+E8441,Paul,28,81051,Finance,Denver,8,Good,Yes
+E5560,Quinn,22,89123,Support,San Francisco,34,Good,Yes
+E4884,Paul,37,135921,Management,Seattle,17,Average,Yes
+E6359,Riley,41,43195,HR,Austin,26,Good,No
+E1164,Frank,27,30142,HR,New York,20,Poor,No
+E3281,Mia,34,95822,HR,Seattle,21,Excellent,Yes
+E8788,Thomas,43,83729,HR,Boston,39,Average,Yes
+E2899,Olivia,27,120507,Management,Boston,29,Good,Yes
+E4183,Hannah,49,144404,Support,Houston,12,Good,No
+E6604,Karen,60,73904,HR,Los Angeles,6,Poor,No
+E9319,Noah,56,96596,Operations,Austin,31,Poor,No
+E9434,Liam,29,40375,Sales,Los Angeles,25,Good,Yes
+E5559,Sophia,30,133182,HR,Boston,27,Poor,Yes
+E6879,Paul,48,43144,Sales,Chicago,12,Good,No
+E5580,Grace,34,50114,Finance,Miami,14,Average,No
+E9301,Hannah,60,130804,Support,San Francisco,15,Poor,No
+E9789,Quinn,55,75841,Sales,Los Angeles,13,Excellent,No
+E3698,Charlie,47,123660,HR,Austin,33,Poor,Yes
+E7337,Noah,51,74381,Finance,Miami,23,Excellent,No
+E3609,Liam,46,32131,Marketing,Miami,20,Excellent,Yes
+E7075,Eve,33,111270,Management,Miami,12,Average,Yes
+E8929,David,58,144034,Finance,Denver,1,Poor,Yes
+E5864,Karen,37,131315,Marketing,Austin,36,Average,Yes
+E8892,Ivy,57,31345,Management,Seattle,32,Poor,No
+E6020,Grace,30,115819,Marketing,Denver,3,Poor,No
+E6431,Paul,45,55136,Sales,Seattle,9,Good,Yes
+E4724,Jack,22,139164,Finance,Chicago,10,Average,No
+E6550,Sophia,41,110836,Sales,San Francisco,7,Excellent,Yes
+E5941,Grace,38,105836,Management,Austin,24,Good,No
+E5753,Olivia,32,33000,Engineering,Austin,32,Good,No
+E1270,Alice,31,45480,HR,Chicago,14,Poor,No
+E3683,Frank,42,54272,Finance,Boston,27,Average,No
+E6753,Frank,37,83950,Sales,Houston,11,Average,Yes
+E7428,Ivy,56,127230,HR,Houston,2,Poor,Yes
+E5351,Liam,60,98313,Management,Miami,6,Excellent,No
+E4952,Frank,30,64243,Operations,Austin,30,Average,Yes
+E2034,Ivy,60,140170,Sales,Los Angeles,3,Poor,Yes
+E5232,Frank,36,130891,Operations,Los Angeles,21,Average,No
+E1158,Eve,35,137929,Marketing,San Francisco,39,Excellent,No
+E6934,Grace,38,140405,Sales,Chicago,37,Excellent,No
+E4611,Hannah,46,30677,Support,Austin,30,Average,Yes
+E8960,Mia,41,108107,HR,Miami,2,Excellent,No
+E4748,Sophia,60,67899,Engineering,Los Angeles,26,Poor,Yes
+E8359,Paul,49,70391,Management,Los Angeles,7,Excellent,Yes
+E3633,Paul,34,101173,Finance,Houston,14,Good,Yes
+E8919,Grace,58,69049,Engineering,Miami,22,Average,Yes
+E1782,Karen,52,34156,Management,Los Angeles,8,Excellent,No
+E2379,Mia,57,103630,Management,Houston,27,Average,Yes
+E7381,Charlie,43,60799,HR,New York,10,Poor,Yes
+E3395,Jack,29,89099,Support,Miami,11,Excellent,No
+E7011,Ivy,58,132239,Operations,Miami,17,Good,Yes
+E2195,Hannah,35,52824,Engineering,San Francisco,30,Excellent,No
+E1301,Quinn,32,127569,HR,Los Angeles,38,Average,Yes
+E3318,Mia,50,46047,Sales,Austin,39,Good,Yes
+E5058,Thomas,29,43836,Engineering,Seattle,10,Poor,No
+E5490,Charlie,60,55430,Support,Boston,10,Average,Yes
+E8442,Quinn,56,132208,Sales,Los Angeles,37,Poor,No
+E4112,Frank,54,62230,Engineering,Boston,23,Poor,Yes
+E6623,Riley,22,114468,Engineering,Houston,4,Average,Yes
+E8456,Noah,40,128952,Engineering,Chicago,2,Poor,Yes
+E6854,Olivia,54,94902,Finance,Seattle,40,Poor,Yes
+E9759,Quinn,40,104297,Operations,Seattle,1,Average,Yes
+E1421,Ivy,52,50582,Engineering,Chicago,37,Good,Yes
+E2984,Karen,30,119949,Engineering,Los Angeles,18,Poor,No
+E3765,Karen,24,112407,Management,Austin,9,Excellent,Yes
+E6975,Eve,43,33048,Management,Miami,3,Average,Yes
+E7173,Hannah,48,33439,Management,Austin,16,Excellent,No
+E3792,Ivy,49,134189,Management,Boston,25,Poor,No
+E9549,Ivy,41,139995,Management,Los Angeles,27,Good,No
+E7081,Olivia,60,139075,Finance,Houston,31,Poor,No
+E9548,Quinn,32,138951,Support,Miami,13,Poor,Yes
+E3800,Quinn,25,123187,Support,Denver,8,Poor,Yes
+E2373,Eve,23,84230,Operations,Austin,22,Good,Yes
+E5214,Mia,52,148912,Sales,Boston,29,Average,No
+E5956,Noah,55,61764,Support,San Francisco,23,Average,Yes
+E3438,Olivia,38,74433,Marketing,Chicago,33,Average,No
+E4446,Mia,24,98459,Sales,Houston,23,Good,Yes
+E6277,Jack,31,54698,Management,San Francisco,38,Average,No
+E8311,Bob,28,82316,Operations,Miami,11,Average,No
+E6628,Bob,48,134013,Management,Seattle,40,Poor,Yes
+E8564,Jack,35,89098,Support,San Francisco,36,Excellent,No
+E5159,Thomas,23,73176,Management,New York,28,Poor,Yes
+E4001,Ivy,34,82326,Support,Miami,22,Excellent,No
+E3681,Sophia,50,95585,Sales,Denver,15,Good,No
+E3215,Olivia,29,36569,Management,Seattle,9,Poor,Yes
+E3593,Olivia,26,37652,Operations,Austin,10,Excellent,No
+E1593,Sophia,22,86129,Marketing,Los Angeles,40,Average,Yes
+E9618,Thomas,35,48931,Sales,San Francisco,14,Average,No
+E6220,David,27,127588,HR,Miami,4,Average,Yes
+E2748,Bob,60,112173,Operations,Miami,25,Average,No
+E3025,Bob,23,145015,Engineering,New York,37,Excellent,Yes
+E3226,Olivia,23,137529,HR,Seattle,10,Poor,Yes
+E3441,Karen,58,141980,Engineering,Los Angeles,7,Poor,Yes
+E9360,Ivy,41,46433,Engineering,Seattle,16,Poor,Yes
+E9819,Mia,52,54931,Finance,Chicago,38,Poor,Yes
+E8324,Hannah,29,80538,Sales,Miami,27,Average,No
+E8378,Thomas,35,77633,Finance,Houston,11,Poor,Yes
+E8356,David,45,94335,Management,Denver,36,Excellent,Yes
+E3803,Sophia,25,121052,Management,Denver,30,Average,No
+E1330,Frank,58,124020,Finance,Houston,4,Excellent,No
+E4321,Paul,38,117321,Management,Boston,3,Average,No
+E5169,Jack,35,66401,HR,Denver,18,Average,Yes
+E2912,Riley,45,43407,Support,Chicago,38,Good,No
+E2745,Liam,24,111627,Management,Seattle,2,Average,No
+E5748,Eve,22,68933,Operations,Los Angeles,6,Poor,Yes
+E2640,Sophia,60,61444,Sales,Chicago,6,Average,No
+E9573,Quinn,56,90282,Operations,Miami,11,Average,No
+E1077,Liam,23,57931,Finance,Seattle,40,Good,No
+E7515,Eve,36,103698,Sales,Denver,31,Average,No
+E2243,Grace,57,87981,Support,Chicago,30,Poor,No
+E9942,Karen,32,34006,Operations,Boston,23,Good,No
+E5403,Paul,24,109340,Support,Denver,36,Excellent,No
+E2609,Quinn,35,145543,Engineering,Chicago,20,Excellent,No
+E3698,Ivy,29,50003,Sales,Miami,2,Good,No
+E4692,Bob,29,126178,HR,Denver,15,Average,Yes
+E3302,Liam,22,82424,HR,Seattle,5,Average,No
+E7011,David,47,30818,Engineering,Los Angeles,7,Average,No
+E7336,David,28,85195,Operations,Chicago,36,Good,Yes
+E8117,Eve,30,65634,Support,Houston,8,Excellent,Yes
+E4755,Olivia,55,42622,Marketing,New York,20,Good,No
+E6931,Karen,48,106749,Support,Denver,8,Average,No
+E3209,Ivy,38,125091,Support,Seattle,4,Average,Yes
+E8325,Karen,55,53151,Operations,San Francisco,11,Average,Yes
+E4590,Mia,26,120160,Finance,Los Angeles,32,Average,Yes
+E5270,Thomas,42,138484,Management,Los Angeles,25,Average,No
+E6471,Liam,50,59748,Support,Boston,31,Good,No
+E7000,Olivia,59,69791,Operations,New York,8,Excellent,No
+E4005,David,37,81648,HR,Houston,7,Excellent,No
+E5491,Charlie,54,51226,HR,Austin,1,Average,No
+E9011,David,41,136155,Sales,Austin,36,Excellent,Yes
+E4925,Ivy,29,145439,Sales,Boston,37,Good,Yes
+E6784,Sophia,26,141557,Management,Houston,6,Average,No
+E2758,Eve,54,81873,Finance,Los Angeles,21,Poor,Yes
+E7711,Liam,55,42103,Sales,Houston,25,Average,No
+E4650,Frank,36,142864,Engineering,Los Angeles,18,Average,No
+E2246,Jack,30,138328,Sales,Denver,5,Average,No
+E2808,Riley,44,95150,Engineering,Miami,31,Excellent,Yes
+E4708,Noah,59,47849,Operations,San Francisco,19,Excellent,Yes
+E9020,Riley,23,133828,HR,Austin,18,Poor,No
+E1997,Charlie,41,105445,Operations,Denver,2,Excellent,No
+E5540,Olivia,42,73627,Finance,Boston,19,Poor,No
+E7360,Mia,50,46366,Engineering,Austin,16,Poor,Yes
+E7588,Thomas,48,135271,Finance,New York,25,Excellent,Yes
+E8123,Noah,24,125448,Finance,Austin,20,Excellent,No
+E9194,Hannah,25,132027,Support,Miami,9,Poor,No
+E1653,Karen,34,71898,Marketing,Chicago,35,Excellent,No
+E7912,Olivia,22,140104,Sales,Austin,16,Good,No
+E6614,Thomas,27,82910,Management,Miami,2,Excellent,No
+E1632,David,58,138677,Engineering,Boston,8,Good,Yes
+E6003,Thomas,41,144549,Engineering,San Francisco,11,Average,No
+E1586,Alice,53,142892,Engineering,Seattle,15,Average,Yes
+E5602,Karen,35,100475,Support,Miami,3,Average,No
+E9980,Frank,42,40531,Marketing,Chicago,14,Poor,Yes
+E9188,Riley,24,125251,Management,Houston,23,Average,No
+E8897,Frank,26,146976,Support,Austin,18,Poor,No
+E5351,Charlie,45,125595,Support,New York,8,Poor,Yes
+E4797,Mia,45,69549,Support,Seattle,33,Average,No
+E8471,Mia,45,54186,Finance,Austin,29,Excellent,No
+E2980,Mia,38,61661,Operations,Houston,23,Average,No
+E1050,Liam,33,34842,Finance,Chicago,15,Good,Yes
+E3822,Grace,33,38372,Sales,Austin,37,Average,Yes
+E6444,Riley,55,122842,HR,Austin,26,Excellent,Yes
+E2183,Olivia,59,56728,Marketing,Boston,11,Average,No
+E3895,Hannah,26,60807,Management,Boston,4,Average,No
+E8349,Paul,41,34930,Operations,Houston,13,Poor,No
+E1120,Thomas,34,80027,Support,Miami,19,Excellent,Yes
+E7736,Thomas,48,81481,Operations,Houston,17,Average,No
+E4950,Bob,38,62605,Management,San Francisco,25,Poor,Yes
+E4701,Olivia,49,132675,Finance,Boston,22,Average,Yes
+E5154,Ivy,29,71381,Marketing,Houston,36,Poor,No
+E8446,Karen,38,78236,Finance,Houston,31,Good,No
+E4545,Olivia,44,120892,Engineering,Denver,21,Good,Yes
+E1833,Quinn,31,126654,Operations,Denver,24,Average,Yes
+E8788,Ivy,27,86342,Engineering,Chicago,6,Good,No
+E7020,Grace,44,110296,Marketing,Seattle,8,Excellent,Yes
+E1376,Thomas,49,68953,Marketing,Austin,24,Average,No
+E6664,Alice,46,87672,Management,Seattle,39,Poor,No
+E9424,Sophia,42,94231,Support,Houston,13,Average,Yes
+E8771,Paul,28,144683,Sales,Boston,33,Average,No
+E2904,Jack,27,112722,Support,Seattle,5,Excellent,Yes
+E2802,Thomas,38,91264,Marketing,Austin,25,Average,Yes
+E4766,Noah,23,144437,Finance,San Francisco,24,Excellent,Yes
+E2158,Quinn,35,46195,Management,Houston,19,Good,No
+E7262,Grace,58,58680,Marketing,Los Angeles,26,Average,Yes
+E5195,Sophia,49,44468,Sales,Austin,4,Good,Yes
+E2407,Paul,24,149823,Finance,Boston,27,Good,Yes
+E1082,Paul,40,76998,Management,Chicago,22,Good,Yes
+E9424,Karen,32,109434,Engineering,Miami,36,Average,No
+E6929,Thomas,25,53170,HR,Chicago,7,Excellent,Yes
+E5308,Mia,36,104947,Operations,Miami,1,Excellent,No
+E4500,Liam,26,112969,Marketing,Miami,40,Poor,Yes
+E7936,Eve,22,42636,Management,New York,13,Excellent,Yes
+E5879,Noah,24,56188,Engineering,Miami,32,Poor,Yes
+E3856,Thomas,32,122741,Management,Seattle,6,Poor,Yes
+E2680,Bob,41,120710,Marketing,Denver,9,Poor,Yes
+E7157,Liam,31,126519,Finance,Miami,25,Average,No
+E8780,Hannah,55,105856,Operations,New York,11,Good,No
+E8014,Grace,22,60894,Operations,Chicago,20,Excellent,No
+E2312,Quinn,32,147172,Sales,Seattle,11,Poor,No
+E4991,Riley,40,143839,Support,Seattle,20,Excellent,Yes
+E9086,Noah,55,130321,Sales,Boston,26,Excellent,Yes
+E9471,Jack,44,101711,Engineering,Houston,5,Good,Yes
+E5569,Liam,46,84811,Management,San Francisco,4,Excellent,Yes
+E3504,Hannah,52,36541,Management,Miami,16,Excellent,Yes
+E6965,Liam,40,74134,HR,Miami,17,Good,Yes
+E7074,Charlie,60,106354,Management,New York,24,Poor,Yes
+E3770,Frank,40,93895,Operations,Austin,7,Poor,No
+E2321,Riley,46,136771,Support,Miami,6,Good,Yes
+E2273,David,47,64593,Marketing,Los Angeles,25,Excellent,Yes
+E3110,Bob,52,80419,Finance,New York,4,Average,No
+E8446,Noah,35,113173,Finance,Seattle,14,Average,Yes
+E8703,Hannah,41,72808,Engineering,Seattle,12,Excellent,Yes
+E8222,Grace,25,63172,Support,San Francisco,26,Good,Yes
+E6689,Thomas,22,116814,Sales,Boston,38,Poor,Yes
+E1352,Ivy,51,75049,Engineering,Los Angeles,17,Excellent,No
+E6584,Bob,35,51300,Support,Denver,23,Excellent,No
+E7203,Sophia,50,120546,Marketing,Los Angeles,11,Poor,No
+E2413,Ivy,45,120880,Engineering,Austin,30,Average,Yes
+E6924,Jack,43,140332,Finance,Austin,1,Average,Yes
+E1185,Alice,25,36259,Support,Seattle,36,Poor,Yes
+E1951,Charlie,44,31664,Operations,Seattle,21,Poor,Yes
+E2490,Olivia,60,47349,Sales,Denver,12,Poor,Yes
+E1393,Bob,56,142111,Management,Denver,35,Excellent,No
+E6505,Eve,43,121440,HR,Los Angeles,9,Good,No
+E8960,Olivia,24,127513,Engineering,Seattle,1,Poor,Yes
+E5929,Karen,57,110684,Management,Austin,11,Excellent,Yes
+E6311,Riley,28,61041,Engineering,Chicago,36,Poor,No
+E7232,Charlie,36,72046,HR,Boston,33,Excellent,Yes
+E5652,Riley,42,133264,Engineering,Houston,11,Average,No
+E6159,Frank,22,116154,Engineering,Los Angeles,29,Poor,Yes
+E4685,Olivia,22,46074,Finance,Boston,24,Average,No
+E1876,Quinn,60,143200,Sales,Seattle,10,Good,Yes
+E5179,Mia,41,57529,Marketing,San Francisco,15,Average,Yes
+E2194,Charlie,34,86208,Management,San Francisco,22,Poor,No
+E3071,Charlie,41,58515,Sales,San Francisco,31,Average,No
+E2872,Alice,26,73536,Engineering,Austin,39,Excellent,Yes
+E2724,Mia,56,59603,Support,Chicago,15,Good,Yes
+E7255,Frank,22,98877,HR,Boston,38,Poor,Yes
+E6446,Grace,37,146352,Operations,Boston,31,Poor,No
+E5339,Alice,52,105019,Support,Austin,12,Average,No
+E5201,Hannah,28,91221,Engineering,New York,13,Excellent,No
+E7278,Thomas,36,112319,HR,Houston,1,Good,No
+E5294,Sophia,56,40608,Sales,Seattle,32,Excellent,No
+E4457,Grace,24,106449,Operations,Denver,36,Average,Yes
+E9846,Liam,25,124816,Management,Denver,1,Good,Yes
+E8456,Quinn,47,70460,Finance,Houston,8,Good,Yes
+E2398,Riley,47,117989,HR,Los Angeles,16,Poor,Yes
+E8054,Bob,46,71468,Operations,Los Angeles,11,Good,No
+E4727,Sophia,34,71369,Support,San Francisco,8,Excellent,Yes
+E4277,Grace,22,54667,HR,New York,18,Average,Yes
+E5987,Paul,24,104746,Finance,Chicago,15,Good,Yes
+E2976,Riley,27,51198,Support,Boston,10,Poor,Yes
+E7143,Quinn,60,133839,Support,Los Angeles,39,Average,No
+E8412,Alice,53,57079,Finance,Boston,32,Good,Yes
+E1616,Mia,22,41207,Management,Houston,15,Average,No
+E4110,Jack,54,82581,Management,New York,9,Poor,No
+E1322,Olivia,57,65347,Finance,Los Angeles,17,Excellent,No
+E4349,Liam,32,104097,Support,Los Angeles,35,Average,Yes
+E9472,Hannah,22,122091,Management,New York,29,Average,No
+E6530,Olivia,49,127865,Marketing,Seattle,15,Average,Yes
+E8846,Mia,40,88488,Operations,Houston,26,Good,Yes
+E5141,Ivy,52,126510,Engineering,Denver,20,Average,No
+E1516,Sophia,42,38326,Sales,Seattle,23,Poor,Yes
+E5658,Thomas,32,141191,Engineering,Chicago,21,Excellent,No
+E9259,Alice,39,48518,Sales,New York,20,Good,No
+E1143,Eve,44,102946,Operations,Chicago,13,Average,No
+E2460,Paul,57,77963,Management,Denver,20,Excellent,No
+E1054,Thomas,31,105517,Engineering,Boston,17,Excellent,Yes
+E4728,Charlie,26,111429,Operations,New York,4,Average,No
+E8750,Grace,57,63755,Sales,San Francisco,11,Excellent,Yes
+E9450,Sophia,57,35832,Marketing,San Francisco,33,Excellent,Yes
+E1609,Thomas,47,122753,Sales,Houston,12,Excellent,No
+E5983,Bob,31,100876,Management,Denver,14,Poor,No
+E5427,Bob,35,141819,Operations,Miami,39,Excellent,No
