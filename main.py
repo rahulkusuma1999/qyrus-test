@@ -81,7 +81,7 @@ def main():
         loader = CSVLoader(file_path=csv_path)
         docs = loader.load()
 
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=0)
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=50)
         split_docs = text_splitter.split_documents(docs)
 
         schema_info = "\n".join([f"{col}: {str(df_full[col].dtype)}" for col in df_full.columns])
