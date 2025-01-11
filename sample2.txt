@@ -1,0 +1,30 @@
+INPUT:
+
+Enter the path of your CSV file:large_qtest.csv
+Enter your query: what is average age in marketing dept
+
+OUTPUT:
+
+=== Generated Python Code ===
+
+# Import pandas library
+import pandas as pd
+
+# Load CSV data into a DataFrame
+df = pd.read_csv('data.csv')
+
+# Clean missing or invalid data
+df = df.dropna()
+
+# Convert categorical columns to numeric values
+df['Department'] = df['Department'].replace({'Marketing': 1, 'Management': 2, 'Support': 3, 'Engineering': 4})
+
+# Calculate average age in marketing department
+avg_age = df[df['Department'] == 1]['Age'].mean()
+
+# Print result
+print("The average age in the marketing department is:", avg_age)
+=============================
+
+=== Code Execution Output ===
+The average age in the marketing department is: 39.92982456140351

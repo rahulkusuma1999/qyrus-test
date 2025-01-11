@@ -1,0 +1,31 @@
+INPUT:
+
+Enter the path of your CSV file: qtest.csv
+Enter your query: what is the average salary?
+
+OUTPUT:
+
+=== Generated Python Code ===
+
+# Import pandas library
+import pandas as pd
+
+# Load CSV data into a DataFrame
+df = pd.read_csv('data.csv')
+
+# Clean missing or invalid data
+df = df.dropna()
+
+# Convert categorical columns to numeric values
+df['Name'] = df['Name'].replace({'Alice': 1, 'rahul': 2, 'susmeta': 3, 'namit': 4})
+
+# Calculate average salary
+avg_salary = df['Salary'].mean()
+
+# Print the result
+print("The average salary is:", avg_salary)
+=============================
+
+
+=== Code Execution Output ===
+The average salary is: 800125.0
