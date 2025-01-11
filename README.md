@@ -1,4 +1,4 @@
-# Qyrus-Test
+# Qyrus
 
 ## Setup Instructions
 1. **Install Dependencies**  
